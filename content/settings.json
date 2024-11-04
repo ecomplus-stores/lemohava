@@ -1,7 +1,7 @@
 {
   "domain": "www.wecarpdiem.com.br",
   "currency_symbol": "R$",
-  "primary_color": "#222831",
+  "primary_color": "#f2368d",
   "theme": {
     "bootswatch": "_",
     "custom": "_"
