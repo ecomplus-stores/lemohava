@@ -27,6 +27,16 @@
       "headless": false,
       "limit": 16,
       "page": 1
+    },
+    {
+      "type": "shelfs-nav",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_ids": [
+        "671bcff80a4e586d9370b4e1:categories:Sapatos:/sapatos"
+      ],
+      "sort": "views"
     }
   ]
 }
